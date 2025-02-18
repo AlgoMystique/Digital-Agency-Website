@@ -1,4 +1,4 @@
-# Code & Craft: UI/UX Designs
+# Code & Craft Digital Agency
 
 An interactive website showcasing stunning UI/UX designs created with HTML, CSS, Bootstrap, and Canva. This project features mockups and animated GIFs, all designed by me, that enhance user experience and demonstrate the creative blend of technology and design.
 
