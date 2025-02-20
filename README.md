@@ -3,7 +3,7 @@
 An interactive website showcasing stunning UI/UX designs created with HTML, CSS, Bootstrap, and Canva. This project features mockups and animated GIFs, all designed by me, that enhance user experience and demonstrate the creative blend of technology and design.
 
 ## Live Demo
-[View Live Demo](https://algomystique.github.io/bootstrap-and-canva-ui/)
+[View Live Demo](https://algomystique.github.io/Digital-Agency-Website)
 
 ![Screenshot of the Website](screenshots/shot1.png)
 ![Screenshot of the Website](screenshots/shot2.png)
